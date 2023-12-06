@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.rectangle{
+    border: 4px solid rgba(204, 190, 0, 0.966);
+    background-color: #0f7;
+    height: 150px;
+    margin: auto;
+    width: 400px;
+}
+.circle{
+    border: 4px solid #000;
+    background-color: #f00;
+    width: 400px;
+    height: 150px;
+    margin: auto;
+    border-radius: 100%;
+}
+.square{
+    border: 4px solid #0aa;
+    background-color: #00f;
+    margin: auto;
+    height: 150px;
+    width: 400px;
+}
